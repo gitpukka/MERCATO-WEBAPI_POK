@@ -3,3 +3,6 @@
 ################################################################################
 
 /WebApiPok/obj
+/WebApiPok/WebApiPok.csproj.user
+/.vs/WebApiProofOfKnowledge/v15/Server/sqlite3
+/.vs/slnx.sqlite

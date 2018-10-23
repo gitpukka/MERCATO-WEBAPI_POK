@@ -10,7 +10,7 @@ namespace WebApiPok.Controllers
         /// https://localhost:44342/conn/Authenticate?email=user&password=test
         /// </summary>
         /// <param name="email"></param>
-        /// <param name="password"></param>
+        /// <param name="password">.</param>
         /// <returns></returns>
         [HttpPost]
         [Route("Authenticate")]
